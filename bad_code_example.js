@@ -1,10 +1,3 @@
-// Bad code example
-function calc(a, b) {
-    return a * b;
-}
-
-
-
 const employees = [];
 
 function addEmployee(id, name, department, salary) {
