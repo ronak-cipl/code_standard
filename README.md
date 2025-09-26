@@ -1,5 +1,18 @@
 # code_standard
 
+## ESLint
+
+1. Open VS Code and goto Extensions
+
+2. Search "ESLint" and Install
+
+3. Create ESLint configuration by run "npx eslint --init" command
+
+4. Run "npx eslint ." command and check problems
+
+
+
+
 ## SonarQube
 
 1. Download & Install "docker" and open
@@ -41,4 +54,3 @@ sonar.token=your_sonarqube_user_token
 8. Run "sonar-scanner" command in your project root folder
 
 9. Goto step-4, open your project and see the reports
-
