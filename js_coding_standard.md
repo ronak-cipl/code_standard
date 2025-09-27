@@ -1,7 +1,7 @@
 # JS coding standard
 
 
-##Naming Conventions
+## Naming Conventions
 ```
 // ■ Bad
 function d(a, b) {
@@ -20,7 +20,7 @@ const result = addNumbers(10, 20);
 
 
 
-##Error Handling
+## Error Handling
 ```
 // ■ Bad
 function parseJSON(str) {
@@ -45,7 +45,7 @@ parseJSON("{bad json}");
 
 
 
-##Avoid Magic Numbers
+## Avoid Magic Numbers
 ```
 // ■ Bad
 function calculateCircleArea(radius) {
@@ -61,9 +61,7 @@ function calculateCircleArea(radius) {
 ```
 
 
-
-
-##Use const and let (not var)
+## Use const and let (not var)
 ```
 // ■ Bad
 var name = "Alice";
@@ -77,9 +75,7 @@ userName = "Bob"; // allowed because `let` is mutable
 ```
 
 
-
-
-##Modular Code
+## Modular Code
 ```
 // ■ Bad
 function processOrder(order) {
@@ -112,7 +108,7 @@ function processOrder(order) {
 
 
 
-##Consistent Formatting
+## Consistent Formatting
 ```
 // ■ Bad
 function getUser(id) { return { id: id, name: "John" }; }
@@ -129,8 +125,7 @@ function getUser(id) {
 
 
 
-
-##DRY Principle
+## DRY Principle
 ```
 // ■ Bad (Repeating Code)
 function calculateStudentDiscount(price) {
