@@ -1,5 +1,9 @@
 # code_standard
 
+## VS Code Terminal
+ 
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+
 ## ESLint
 
 1. Open VS Code and goto Extensions
