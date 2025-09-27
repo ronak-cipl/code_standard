@@ -1,5 +1,11 @@
 # code_standard
 
+## Questions Form
+[https://forms.gle/bUxei8ahsk5LNGPR9]
+
+## Workshop Feedback Form
+[https://forms.gle/TAfjCS8ZJqkYpTtu5]
+
 ## VS Code Terminal
  
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
